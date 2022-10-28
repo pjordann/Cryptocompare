@@ -32,4 +32,4 @@ python3 compare.py
 
 ## Screenshots
 * Terminal menu
-<br/> <br/> ![](https://github.com/pjordann/Cryptocompare/blob/main/images/1.png | width=100)
+<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/1.png" width="100" height="100">
