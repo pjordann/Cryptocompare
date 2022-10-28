@@ -32,11 +32,11 @@ python3 compare.py
 
 ## Screenshots
 * Terminal menu
-<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/1.png" height="400" width="500">
+<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/1.png" height="350" width="500">
 <br/>
 * Choose action 1 example
-<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/2.png" height="350" width="500">
+<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/2.png" height="350" width="550">
 <br/>
 * Choose action 2 example
-<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/3.png" height="350" width="500">
+<img src="https://github.com/pjordann/Cryptocompare/blob/main/images/3.png" height="350" width="600">
 
