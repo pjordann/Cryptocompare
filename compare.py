@@ -70,3 +70,4 @@ while (not acabar):
         
     else:
         print("\n" + f"{bcolors.FAIL}Opción inválida{bcolors.ENDC}\n")
+        
