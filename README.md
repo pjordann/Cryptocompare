@@ -4,7 +4,7 @@ Terminal based application to compare different crypto currencies
 
 ## Description
 
-This project uses [CryptoCompare](https://docs.python.org/es/3/library/tkinter.html) API  to obtain the data that is shown data.
+This project uses [CryptoCompare](https://min-api.cryptocompare.com/documentation) API  to obtain the data that is shown data.
 
 ## Getting Started
 
@@ -21,12 +21,12 @@ pip install pyfiglet
 
 ### Installing
 
-```
+```sh
 git clone https://github.com/pjordann/Cryptocompare
 ```
 
 ### Executing program
-```
+```sh
 python3 compare.py
 ```
 
