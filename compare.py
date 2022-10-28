@@ -70,10 +70,3 @@ while (not acabar):
         
     else:
         print("\n" + f"{bcolors.FAIL}Opción inválida{bcolors.ENDC}\n")
-
-
-
-# Para operaciones más específicas (https://min-api.cryptocompare.com/documentation?key=Toplists&cat=TopTotalVolumeEndpointFull)
-# cryptocompare.cryptocompare._set_api_key_parameter("5092fee8f63d9d3f4cd6ae18bd973ec1c7418a281eada9935a1b757d08205860")
-# lista = cryptocompare.get_price('ETH')
-
