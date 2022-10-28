@@ -31,7 +31,7 @@ python3 compare.py
 ```
 
 ## Screenshots
-<p float="left">
+<p float="center">
   <img src="https://github.com/pjordann/Cryptocompare/blob/main/images/1.png" height="200" />
   <img src="https://github.com/pjordann/Cryptocompare/blob/main/images/2.png" height="200" />
   <img src="https://github.com/pjordann/Cryptocompare/blob/main/images/3.png" height="200" />
