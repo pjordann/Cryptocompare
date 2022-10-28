@@ -41,7 +41,7 @@ def compareCripto(cripto, compare):
     print()
     # iteramos
     for criptomoneda,valor in x.json().items():
-        print("\t\t 1 " + cripto + " = " + f"{valor:<10}{criptomoneda:<30}")
+        print("\t\t 1 " + cripto + " = " + f"{valor:<10}{criptomoneda:<40}")
     print()
 
 
